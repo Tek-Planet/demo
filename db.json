@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "title": "json-server",
-    "author": "typicode"
+    "name": "PHCCIMA Food",
+    "address": "Garrison Ph Nigeria"
   },
   {
     "id": 3,
-    "title": "json-server",
-    "author": "typicode"
+    "name": "Abby Food",
+    "address": "Kastina United"
   }
 ]
