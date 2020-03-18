@@ -2,11 +2,13 @@
   {
     "id": 1,
     "name": "PHCCIMA Food",
-    "address": "Garrison Ph Nigeria"
+    "address": "Garrison Ph Nigeria",
+    "rating": 4
   },
   {
     "id": 2,
     "name": "Abby Food",
-    "address": "Kastina United"
+    "address": "Kastina United",
+     "rating": 3.5
   }
 ]
