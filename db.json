@@ -8,7 +8,13 @@
   {
     "id": 2,
     "name": "Abby Food",
-    "address": "Kastina United",
+    "address": "Set Awon Batagarawa Kastina United",
+     "rating": 3.5
+  },
+  {
+    "id": 3,
+    "name": "Laurel's Kitchen",
+    "address": "Some where in Yenogoa",
      "rating": 3.5
   }
 ]
