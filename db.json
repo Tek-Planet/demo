@@ -1,23 +1,24 @@
-{
+[
  
-
  {
     "id": 1,
     "name": "PHCCIMA Food",
     "address": "Garrison Ph Nigeria",
     "rating": 4
   },
+ 
   {
     "id": 2,
     "name": "Abby Food",
     "address": "Set Awon Batagarawa Kastina United",
      "rating": 3.5
   },
+ 
   {
     "id": 3,
     "name": "Laurel's Kitchen",
     "address": "Some where in Yenogoa",
      "rating": 5
   }
-
-}
+ 
+]
