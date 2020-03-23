@@ -1,6 +1,6 @@
 {
  
-"restaurants":[
+
  {
     "id": 1,
     "name": "PHCCIMA Food",
@@ -19,5 +19,5 @@
     "address": "Some where in Yenogoa",
      "rating": 5
   }
-]
+
 }
