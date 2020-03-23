@@ -1,5 +1,7 @@
 [
-  {
+ 
+"restaurants":[
+ {
     "id": 1,
     "name": "PHCCIMA Food",
     "address": "Garrison Ph Nigeria",
@@ -17,4 +19,5 @@
     "address": "Some where in Yenogoa",
      "rating": 5
   }
+]
 ]
